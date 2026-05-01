@@ -33,7 +33,7 @@ Links:
 - LinkedIn: https://www.linkedin.com/in/davegerhardt/
 
 Why chosen:  
-- Strong voice in B2B branding and content  
+- Strong voice in B2B branding and content 
 - Focus on storytelling in SaaS  
 
 Initial observation:  
