@@ -16,7 +16,7 @@ This research includes 10 B2B SaaS operators and content creators known for cons
 
 ## Repository Structure
 
-- `/research/sources.md`  
+- [sources.md](./research/sources.md)  
   List of selected experts with links, access dates, and brief annotations  
 
 - `/research/linkedin-posts/`  
