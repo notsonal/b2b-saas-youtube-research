@@ -1,8 +1,8 @@
 ## Chris Walker
 
 Platform: LinkedIn  
-Links:  
-- LinkedIn: https://www.linkedin.com/in/chriswalker171/
+Links: https://www.linkedin.com/in/chriswalker171/
+Accessed: May 2026
 
 Why chosen:  
 - Strong focus on B2B SaaS demand generation  
@@ -15,8 +15,8 @@ Initial observation:
 ## Devin Reed
 
 Platform: LinkedIn  
-Links:  
-- LinkedIn: https://www.linkedin.com/in/devinreed/
+Links: https://www.linkedin.com/in/devinreed/
+Accessed: May 2026
 
 Why chosen:  
 - B2B SaaS content expert  
@@ -29,8 +29,8 @@ Initial observation:
 ## Dave Gerhardt
 
 Platform: LinkedIn  
-Links:  
-- LinkedIn: https://www.linkedin.com/in/davegerhardt/
+Links: https://www.linkedin.com/in/davegerhardt/
+Accessed: May 2026
 
 Why chosen:  
 - Strong voice in B2B branding and content 
@@ -43,8 +43,8 @@ Initial observation:
 ## Justin Welsh
 
 Platform: LinkedIn  
-Links:  
-- LinkedIn: https://www.linkedin.com/in/justinwelsh/
+Links: https://www.linkedin.com/in/justinwelsh/
+Accessed: May 2026
 
 Why chosen:  
 - Builds audience and revenue through content  
@@ -57,8 +57,8 @@ Initial observation:
 ## Dan Martell
 
 Platform: LinkedIn  
-Links:  
-- LinkedIn: https://www.linkedin.com/in/dmartell/
+Links: https://www.linkedin.com/in/dmartell/
+Accessed: May 2026
 
 Why chosen:  
 - SaaS founder sharing growth insights  
@@ -71,8 +71,8 @@ Initial observation:
 ## Ross Simmonds
 
 Platform: LinkedIn  
-Links:  
-- LinkedIn: https://www.linkedin.com/in/rosssimmonds/
+Links: https://www.linkedin.com/in/rosssimmonds/
+Accessed: May 2026
 
 Why chosen:  
 - Focus on content distribution and amplification  
@@ -85,8 +85,8 @@ Initial observation:
 ## Kieran Flanagan
 
 Platform: LinkedIn  
-Links:  
-- LinkedIn: https://www.linkedin.com/in/kieranjflanagan/
+Links: https://www.linkedin.com/in/kieranjflanagan/
+Accessed: May 2026
 
 Why chosen:  
 - Focus on modern marketing and content systems  
@@ -99,8 +99,8 @@ Initial observation:
 ## April Dunford
 
 Platform: LinkedIn  
-Links:  
-- LinkedIn: https://www.linkedin.com/in/aprildunford/
+Links: https://www.linkedin.com/in/aprildunford/
+Accessed: May 2026
 
 Why chosen:  
 - Expert in positioning for B2B SaaS  
@@ -113,8 +113,8 @@ Initial observation:
 ## Alex Hormozi
 
 Platform: LinkedIn  
-Links:  
-- LinkedIn: https://www.linkedin.com/in/alexhormozi/
+Links: https://www.linkedin.com/in/alexhormozi/
+Accessed: May 2026
 
 Why chosen:  
 - Strong content strategy and messaging  
@@ -127,9 +127,9 @@ Initial observation:
 ## Paddy Galloway
 
 Platform: LinkedIn  
-Links:  
-- LinkedIn: https://www.linkedin.com/in/paddy-galloway-459b8913a/
-  
+Links: https://www.linkedin.com/in/paddy-galloway-459b8913a/
+Accessed: May 2026
+
 Why chosen:  
 - Specializes in content and growth strategy  
 - Works with high-performing creators  
